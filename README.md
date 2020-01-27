@@ -64,7 +64,7 @@ id - long id
 404 - not found, can't delete advertisement with such id
 
 
-## Search for advertisements by a unique identifier
+## Search for advertisements by ID
 
 __*GET /advertisements/{adId}*__
 
